@@ -14,6 +14,6 @@
   "hideInEditor": false,
   "dependencies": {
     "com.github.asus4.tflite": "2.12.0",
-    "com.github.asus4.tflite.common": "2.12.0"
+    "com.github.asus4.tflite.common": "2.13.0"
   }
 }
